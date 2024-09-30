@@ -15,7 +15,7 @@ ___
 
 > # What i'm **Tried** to Do in this Project..🐱‍🏍
 
-![Design](https://github.com/Thiru-cse/Fullstack-Developer/blob/main/My-Project-Screenshots/Play%20Video.png?raw=true)
+![Design](https://github.com/Thiru-cse/Fullstack-Developer/blob/main/My-Project-Screenshots/Youtube%20-%20Thiru%20.png?raw=true)
 
 * **Make many pages**
 * **Make more Design but i'm tired🥴**
@@ -24,7 +24,7 @@ ___
 
 ># **This Project Live on..👇**
 
-* [YouTube Clone 🔗](https://confident-torvalds-a239b2.netlify.app/)
+* [YouTube Clone 🔗](https://vidtubeshow.onrender.com)
 
 ___
 
